@@ -1,0 +1,14 @@
+F:\ProjetoAulasUdemy\restwithASP-NETUdemy\RestWithASP-NETUdemy\RestWithASP-NETUdemy\bin\Debug\netcoreapp2.1\RestWithASP-NETUdemy.deps.json
+F:\ProjetoAulasUdemy\restwithASP-NETUdemy\RestWithASP-NETUdemy\RestWithASP-NETUdemy\bin\Debug\netcoreapp2.1\RestWithASP-NETUdemy.runtimeconfig.json
+F:\ProjetoAulasUdemy\restwithASP-NETUdemy\RestWithASP-NETUdemy\RestWithASP-NETUdemy\bin\Debug\netcoreapp2.1\RestWithASP-NETUdemy.runtimeconfig.dev.json
+F:\ProjetoAulasUdemy\restwithASP-NETUdemy\RestWithASP-NETUdemy\RestWithASP-NETUdemy\bin\Debug\netcoreapp2.1\RestWithASP-NETUdemy.dll
+F:\ProjetoAulasUdemy\restwithASP-NETUdemy\RestWithASP-NETUdemy\RestWithASP-NETUdemy\bin\Debug\netcoreapp2.1\RestWithASP-NETUdemy.pdb
+F:\ProjetoAulasUdemy\restwithASP-NETUdemy\RestWithASP-NETUdemy\RestWithASP-NETUdemy\obj\Debug\netcoreapp2.1\RestWithASP-NETUdemy.csprojAssemblyReference.cache
+F:\ProjetoAulasUdemy\restwithASP-NETUdemy\RestWithASP-NETUdemy\RestWithASP-NETUdemy\obj\Debug\netcoreapp2.1\RestWithASP-NETUdemy.csproj.CoreCompileInputs.cache
+F:\ProjetoAulasUdemy\restwithASP-NETUdemy\RestWithASP-NETUdemy\RestWithASP-NETUdemy\obj\Debug\netcoreapp2.1\RestWithASP-NETUdemy.RazorAssemblyInfo.cache
+F:\ProjetoAulasUdemy\restwithASP-NETUdemy\RestWithASP-NETUdemy\RestWithASP-NETUdemy\obj\Debug\netcoreapp2.1\RestWithASP-NETUdemy.RazorAssemblyInfo.cs
+F:\ProjetoAulasUdemy\restwithASP-NETUdemy\RestWithASP-NETUdemy\RestWithASP-NETUdemy\obj\Debug\netcoreapp2.1\RestWithASP-NETUdemy.AssemblyInfoInputs.cache
+F:\ProjetoAulasUdemy\restwithASP-NETUdemy\RestWithASP-NETUdemy\RestWithASP-NETUdemy\obj\Debug\netcoreapp2.1\RestWithASP-NETUdemy.AssemblyInfo.cs
+F:\ProjetoAulasUdemy\restwithASP-NETUdemy\RestWithASP-NETUdemy\RestWithASP-NETUdemy\obj\Debug\netcoreapp2.1\RestWithASP-NETUdemy.RazorTargetAssemblyInfo.cache
+F:\ProjetoAulasUdemy\restwithASP-NETUdemy\RestWithASP-NETUdemy\RestWithASP-NETUdemy\obj\Debug\netcoreapp2.1\RestWithASP-NETUdemy.dll
+F:\ProjetoAulasUdemy\restwithASP-NETUdemy\RestWithASP-NETUdemy\RestWithASP-NETUdemy\obj\Debug\netcoreapp2.1\RestWithASP-NETUdemy.pdb
