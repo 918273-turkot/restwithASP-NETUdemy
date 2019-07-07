@@ -11885,11 +11885,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\ProjetoAulasUdemy\\restwithASP-NETUdemy\\RestWithASP-NETUdemy\\RestWithASP-NETUdemy\\RestWithASP-NETUdemy.csproj",
+      "projectUniqueName": "F:\\ProjetoAulasUdemy\\restwithASP-NETUdemy\\RestWithASP-NETUdemy00-Scaffold\\RestWithASP-NETUdemy\\RestWithASP-NETUdemy.csproj",
       "projectName": "RestWithASP-NETUdemy",
-      "projectPath": "F:\\ProjetoAulasUdemy\\restwithASP-NETUdemy\\RestWithASP-NETUdemy\\RestWithASP-NETUdemy\\RestWithASP-NETUdemy.csproj",
+      "projectPath": "F:\\ProjetoAulasUdemy\\restwithASP-NETUdemy\\RestWithASP-NETUdemy00-Scaffold\\RestWithASP-NETUdemy\\RestWithASP-NETUdemy.csproj",
       "packagesPath": "C:\\Users\\Mario\\.nuget\\packages\\",
-      "outputPath": "F:\\ProjetoAulasUdemy\\restwithASP-NETUdemy\\RestWithASP-NETUdemy\\RestWithASP-NETUdemy\\obj\\",
+      "outputPath": "F:\\ProjetoAulasUdemy\\restwithASP-NETUdemy\\RestWithASP-NETUdemy00-Scaffold\\RestWithASP-NETUdemy\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
